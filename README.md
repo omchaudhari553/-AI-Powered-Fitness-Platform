@@ -44,25 +44,25 @@ AI-Powered Fitness Platform is a cloud-ready microservices application designed 
 ## 🛠 Tech Stack
 
 ### Backend
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- OAuth2  
-- API Gateway  
-- :contentReference[oaicite:3]{index=3}  
+- :contentReference[oaicite:0]{index=0}
+- :contentReference[oaicite:1]{index=1}
+- :contentReference[oaicite:2]{index=2}
+- OAuth2
+- API Gateway
+- :contentReference[oaicite:3]{index=3}
 
 ### Frontend
-- :contentReference[oaicite:4]{index=4}  
+- :contentReference[oaicite:4]{index=4}
 
 ### Databases
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6}  
+- :contentReference[oaicite:5]{index=5}
+- :contentReference[oaicite:6]{index=6}
 
 ### DevOps / Tools
-- :contentReference[oaicite:7]{index=7}  
-- :contentReference[oaicite:8]{index=8}  
-- :contentReference[oaicite:9]{index=9}  
-- :contentReference[oaicite:10]{index=10} API Key  
+- :contentReference[oaicite:7]{index=7}
+- :contentReference[oaicite:8]{index=8}
+- :contentReference[oaicite:9]{index=9}
+- :contentReference[oaicite:10]{index=10} API Key
 
 ---
 
